@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @gaspiDev
+- 👀 I’m interested in .NET Backend for Web Apps
+- 🌱 I’m currently doing a Degree in Programming at Universidad Austral
+- 💞️ I’m looking to collaborate on Small Busieness Stock Managment Apps
+- 📫 How to reach me +54 0341 152159584 or carballadagapsar@gmail.com
+- ⚡ Fun fact: I have a Busieness major incomplete and this is my first year of many to come in the IT world. 
